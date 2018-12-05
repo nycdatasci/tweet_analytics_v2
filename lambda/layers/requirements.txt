@@ -1,1 +1,3 @@
 tweepy
+requests-aws4auth
+elasticsearch
